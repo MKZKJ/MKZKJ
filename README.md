@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com front-end e desevolvendor bootstrap
 - 🌱 Estudante de programação 
 - 😄 Pronouns: ele/dele
+- 👁‍🗨 𝕬 𝖆𝖗𝖙𝖊 𝖊́ 𝖕𝖆𝖗𝖆 𝖈𝖔𝖓𝖘𝖔𝖑𝖆𝖗 𝖆𝖖𝖚𝖊𝖑𝖊𝖘 𝖖𝖚𝖊 𝖘𝖆̃𝖔 𝖖𝖚𝖊𝖇𝖗𝖆𝖉𝖔𝖘 𝖕𝖊𝖑𝖆 𝖛𝖎𝖉𝖆
 
 <div>
   <a href="https://github.com/MKZKJ">
